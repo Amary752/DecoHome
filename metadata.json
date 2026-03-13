@@ -1,0 +1,5 @@
+{
+  "name": "DecoHome",
+  "description": "Landing page para Amary Deco & Shop Home con video parallax y agente de voz HOM.",
+  "requestFramePermissions": ["microphone"]
+}
